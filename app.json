@@ -1,0 +1,12 @@
+{
+  "name": "verse",
+  "displayName": "verse",
+  "expo": {
+    "name": "verse",
+    "slug": "verse",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
